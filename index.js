@@ -5,7 +5,7 @@ function createEmployeeRecord(row) {
     familyName: row[1],
     title: row[2],
     payPerHour: row[3],
-    timeInEvents: row[],
-    timeOutEvents: row[]
+    timeInEvents: [],
+    timeOutEvents: []
   }
 }
